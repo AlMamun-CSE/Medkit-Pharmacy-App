@@ -41,7 +41,7 @@ A patient can perform the following features for now:
 <img src="images/doctoLogin.jpg" width = 200> <img src="images/doctorpanel.jpg" width = 200> <img src="images/doctorEdit.jpg" width = 200> <img src="images/doctorProfile.jpg" width = 200>
 
 ## Patient Part
-<img src="images/patientLogin.jpg" width = 200> <img src="images/patientPanel.jpg" width = 200> <img src="images/medDetails.jpg" width = 200> <img src="images/doctorDetails.jpg" width = 200> <img src="images/patientProfile.jpg" width = 200>
+<img src="images/patientLogin.jpg" width = 200> <img src="images/patientPanel.jpg" width = 200> <img src="images/medDetails.jpg" width = 200> <img src="images/doctorDetails.jpg" width = 200> 
 
 # Features in Future
 Following features could be added in future:
